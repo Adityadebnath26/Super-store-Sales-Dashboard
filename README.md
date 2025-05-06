@@ -13,7 +13,7 @@
 
 ## Time Analysis
 
- ![image](https://github.com/user-attachments/assets/2958d25d-b831-4fad-9792-154c3fe273be)
+  ![image](https://github.com/user-attachments/assets/39b529df-d43b-4e26-8aa3-9278b35d1a54)
 
 
  
