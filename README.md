@@ -9,7 +9,7 @@
 
 ## Regional Performance
 
-  ![image](https://github.com/user-attachments/assets/fccb5494-9d65-419e-aeec-b6e466732f58)
+  ![image](https://github.com/user-attachments/assets/7b28eae3-5b7c-4eb2-8c08-943fdcda3c9e)
 
 ## Time Analysis
 
